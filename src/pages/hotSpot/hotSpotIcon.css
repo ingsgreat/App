@@ -1,0 +1,17 @@
+/*今日热点头部 Icon*/
+.hot-spot-icon {
+  border-bottom: 0.5rem solid #F5F5F5;
+}
+.hot-spot-icon-list {
+  text-align: center;
+  border: 0.05rem solid #F5F5F5;
+  padding: 0.6rem;
+}
+.hot-spot-icon-list-image {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.at-article__p {
+  margin-top: 0rem;
+}
+/*# sourceMappingURL=hotSpotIcon.css.map */

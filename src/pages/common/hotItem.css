@@ -1,0 +1,47 @@
+.home-hot-content {
+  width: 100%;
+}
+.hot-item-img {
+  width: 20%;
+  height: 3rem;
+  float: left;
+}
+.home-hot-text {
+  position: relative;
+  display: flex;
+  margin-top: 1rem;
+}
+.home-hot-text-title {
+  font-family: '微软雅黑', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1rem;
+  color: #333333;
+  text-align: left;
+}
+.home-hot-text-title-name {
+  width: 65%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.home-hot-date {
+  position: absolute;
+  right: 0.5rem;
+  font-family: '微软雅黑', sans-serif;
+  font-size: 0.9rem;
+  color: #7F7F7F;
+}
+.home-hot-intro {
+  font-family: '微软雅黑', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 0.9rem;
+  color: #7F7F7F;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  width: 65%;
+}
+/*# sourceMappingURL=hotItem.css.map */
