@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import {View, Button, Text, Image} from '@tarojs/components'
-import {AtSearchBar, AtIcon, AtGrid, AtList, AtListItem, AtTabBar} from "taro-ui"
+import {AtSearchBar} from "taro-ui"
 import Taro from '@tarojs/taro'
 import HotSpotIcon from "./hotSpotIcon";
 import TabBar from "../common/tabBar";
